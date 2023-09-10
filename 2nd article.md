@@ -28,5 +28,5 @@
 <p><em>Hope you’ve learned something‼️</em></p>
 </blockquote>
 <hr>
-<p>Follow me on <code>[twitter](_https://twitter.com/RoseMarvelous4?t=OtvlERHT0oiQuXEztJOfnw&amp;s=09_)</code> 🤗:</p>
+<p>Follow me on <code>[X/Twitter](https://twitter.com/Rosemarvelous4)</code> 🤗:</p>
 
