@@ -8,7 +8,7 @@
 <blockquote>
 <p>GitHub is an app for depositing or storing your code online for easy access. Github also helps to keep track of your daily progress and how well you write codes or work on projects</p>
 </blockquote>
-<h4 id="awesome-screenshot">2. Awesome Screenshot:</h4>
+<h4 id="awesome-screenshot">2. Awesome screenshot:</h4>
 <blockquote>
 <p>Awesome Screenshot is an app used for taking screenshots and screen recording your page.</p>
 </blockquote>
